@@ -5,7 +5,7 @@ O guia de início rápido (Quick Start Guide) é uma documentação que explica 
 Diferente do Getting Started, o Quick Start - como o próprio nome sugere - não se preocupa em contextualizar esses primeiros passos do usuário com 
 um produto, mas sim em apresentar objetivamente o que precisa ser feito.
 
-## EXEMPLO DE DOCUMENTAÇÃO 
+
 
 # INICIANDO SEUS INVESTIMENTOS NA BETBANK
 
